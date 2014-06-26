@@ -1,1 +1,26 @@
-["ackbar.coffee", "advice.coffee", "animal.coffee", "applause.coffee", "ascii.coffee", "availability.coffee", "beeradvocate.coffee", "beerme.coffee", "bees.coffee", "brb.coffee", "cheer.coffee", "chuck-norris.coffee", "eight-ball.coffee", "good-night.coffee", "grumpycat.coffee", "hello.coffee", "kittens.coffee", "lolz.coffee", "meme_captain.coffee", "pomodoro.coffee", "redis-brain.coffee", "scotch.coffee", "shipit.coffee", "wunderground.coffee"]
+[
+  "ackbar.coffee",
+  "advice.coffee",
+  "animal.coffee",
+  "applause.coffee",
+  "ascii.coffee",
+  "availability.coffee",
+  "beeradvocate.coffee",
+  "beerme.coffee",
+  "bees.coffee",
+  "brb.coffee",
+  "cheer.coffee",
+  "chuck-norris.coffee",
+  "eight-ball.coffee",
+  "good-night.coffee",
+  "grumpycat.coffee",
+  "hello.coffee",
+  "kittens.coffee",
+  "lolz.coffee",
+  "meme_captain.coffee",
+  "pomodoro.coffee",
+  "redis-brain.coffee",
+  "scotch.coffee",
+  "shipit.coffee",
+  "wunderground.coffee"
+]
